@@ -1,20 +1,27 @@
 /* Set position for each eye class */
-.eye1 {
+/* .eye img {
+    position: absolute;
+    transform-origin: center;
+} */
+#eye1 {
     top: 96px;
     right: 21px;
 }
 
-.eye2 {
+#eye2 {
     top: 118px;
     right: 136px;
+
 }
 
-.eye3 {
+#eye3 {
     bottom: 96px;
     left: 186px;
+
 }
 
-.eye4 {
+#eye4 {
     bottom: 93px;
     left: 89px;
+
 }
